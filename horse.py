@@ -1,0 +1,2 @@
+horse = "Horse"
+print(horse)
