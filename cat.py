@@ -1,3 +1,3 @@
 cat = "Cat"
-cute = False
+cute = True
 print(cat)
