@@ -1,2 +1,2 @@
-tiger = "Tiger"
-print(tiger)
+tigon = "Tiger"
+print(tigon)
