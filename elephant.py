@@ -1,0 +1,2 @@
+elephant = 'Elephant'
+print(elephant)
