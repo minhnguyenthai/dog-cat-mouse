@@ -1,0 +1,2 @@
+tiger = "Tiger"
+print(tiger)
