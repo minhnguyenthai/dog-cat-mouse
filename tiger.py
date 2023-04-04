@@ -1,0 +1,2 @@
+tigon = "Tiger"
+print(tigon)
