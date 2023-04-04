@@ -1,1 +1,2 @@
 cat = "Cat"
+print(cat)
