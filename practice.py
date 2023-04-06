@@ -1,0 +1,2 @@
+love = True
+print(love)
